@@ -1,4 +1,4 @@
-ZendCart_Plugin
+MOLPay ZendCart Plugin
 ===============
 
 MOLPay Plugin for ZendCart Shopping Cart developed by MOLPay R&D team.
