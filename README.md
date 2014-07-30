@@ -23,7 +23,7 @@ Installations
 
 - Download this plugin, Extract/Unzip the files. 
 
-- Upload or copy those file and folder into your X-Cart root folder
+- Upload or copy those file and folder into your cart root folder
 
 - (Skip this if your cart is not hosted in UNIX environment). 
 Please ensure the file permission is correct. It's recommended to CHMOD to 644
