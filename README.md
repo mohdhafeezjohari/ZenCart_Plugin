@@ -1,13 +1,13 @@
-MOLPay ZendCart Plugin
+MOLPay ZenCart Plugin
 ===============
 
-MOLPay Plugin for ZendCart Shopping Cart developed by MOLPay R&D team.
+MOLPay Plugin for ZenCart Shopping Cart developed by MOLPay R&D team.
 
 
 Supported version
 -----------------
 
-ZendCart version 1.3.x
+ZenCart version 1.3.x
 
 
 Notes
@@ -25,7 +25,7 @@ Installations
 
 - Upload or copy those file and folder into your X-Cart root folder
 
-- (Skip this if your X-Cart is not hosted in UNIX environment). 
+- (Skip this if your cart is not hosted in UNIX environment). 
 Please ensure the file permission is correct. It's recommended to CHMOD to 644
 
 - Login as ZenCart store admin, go to `Modules` -> `Payment (Payment Modules)`
