@@ -52,6 +52,7 @@ Please ensure the file permission is correct. It's recommended to CHMOD to 644
     `Callback URL : http://www.yourdomain.com.my/process_callback.php`
 
 - Click on `[Update]`
+- Notice that initial order status is Pending, will change to Processing once payment is success.
 
 - Now you can try to use MOLPay at the shop front by going thru a complete purchase procedure.
  
