@@ -33,7 +33,7 @@ if($skey==$key1)
 	if ($status=="00") 
 	{
 		$db->Execute("update " . TABLE_ORDERS . "
-							set orders_status = 3
+							set orders_status = 2
 	                        where orders_id = '" . (int)$orderid . "'");
 	}
 	elseif($status=="11")
@@ -45,7 +45,7 @@ if($skey==$key1)
 	elseif($status=="22")
 	{
 		$db->Execute("update " . TABLE_ORDERS . "
-							set orders_status = 2
+							set orders_status = 1
 	                        where orders_id = '" . (int)$orderid . "'");
 	}
 }
