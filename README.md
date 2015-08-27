@@ -55,6 +55,7 @@ Please ensure the file permission is correct. It's recommended to CHMOD to 644
 
 - Now you can try to use MOLPay at the shop front by going thru a complete purchase procedure.
  
+- Order with status Pending will be create when making initial order, and will change to Processing once the payment is done.
 
 
 Contribution
