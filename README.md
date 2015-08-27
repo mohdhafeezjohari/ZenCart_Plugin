@@ -55,6 +55,15 @@ Please ensure the file permission is correct. It's recommended to CHMOD to 644
 
 - Now you can try to use MOLPay at the shop front by going thru a complete purchase procedure.
  
+Order Status Reference
+------------------------
+MOLPay will send the status of the transactions which are:
+
+    `Success - Processing`
+
+    `Pending - Pending`
+
+    `Failed  - Pending`
 
 
 Contribution
